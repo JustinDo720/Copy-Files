@@ -1,0 +1,11 @@
+''' Pyinstaller is used to create executable files. '''
+
+# pip install pyinstaller
+
+# Run the follow command in your terminal!
+pyinstaller --onefile file_name.py
+
+# Creating my executable file
+pyinstaller --onefile move_csv_file.py
+
+# The executable file is found in dist
