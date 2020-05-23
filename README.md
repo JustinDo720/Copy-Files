@@ -2,6 +2,7 @@
 Using shutil and os to copy files from on path to another
 
 Hello! A few things to note
+
 1: There are two seperate programs in this project 
   * copy_files.py 
   * copy_files_with_extension.py
